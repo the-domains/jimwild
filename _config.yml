@@ -1,0 +1,14 @@
+layout_spectrum: 0.00698174
+typography_spectrum: 0.6664876
+color:
+  saturation: 0.7861109
+  lightness: 0.8804863
+  brandStrength: 0.5010741
+  brandColors:
+    - '#E8E0C6'
+    - '#312F2F'
+    - '#774B3A'
+    - '#9A9B9B'
+    - '#E0BD77'
+  rhythmicContrast: 0.1954746
+name: jimwild
